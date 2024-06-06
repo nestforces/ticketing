@@ -1,0 +1,76 @@
+{
+    "events": [
+        {
+            "id": 1,
+            "image": "imagedesc.jpg",
+            "title": "OMO! MARKET K-POP FESTIVAL",
+            "date": "11 Nov - 12 Nov 2023",
+            "hours": "10:00 - 22:00 WIB",
+            "location": "AD Premier Office Park, DKI Jakarta",
+            "eo": "penyelenggara",
+            "desc": "",
+            "sk": "",
+            "genres": [{
+                "id": 1,
+                "genre": "vokal"
+            },
+            {
+                "id": 2,
+                "genre": "kpop"
+            }],
+            "tickets": [
+                {
+                    "id": 1,
+                    "title_ticket": "OMO Premium Pass",
+                    "types": "Premium",
+                    "duration": "Berakhir 26 October 2023 | 23:00 WIB",
+                    "price": "50.000"
+                },
+               {
+                    "id": 2,
+                    "title_ticket": "OMO Free Pass",
+                    "types": "Free",
+                    "duration": "Berakhir 26 October 2023 | 23:00 WIB",
+                    "price": "0"
+                }
+            ] 
+        },
+        {
+            "id": 2,
+            "image": "imagedesc.jpg",
+            "title": "OMO! MARKET K-POP FESTIVAL",
+            "date": "11 Nov - 12 Nov 2023",
+            "hours": "10:00 - 22:00 WIB",
+            "location": "AD Premier Office Park, DKI Jakarta",
+            "eo": "penyelenggara",
+            "desc": "",
+            "sk": "",
+            "genres": [{
+                "id": 1,
+                "genres": "vokal"
+            },
+            {
+                "id": 2,
+                "genres": "kpop"
+            }]
+                
+            ,
+            "tickets": [
+                {
+                    "id": 1,
+                    "title_ticket": "OMO Premium Pass",
+                    "types": "Premium",
+                    "duration": "Berakhir 26 October 2023 | 23:00 WIB",
+                    "price": "50.000"
+                },
+               {
+                    "id": 2,
+                    "title_ticket": "OMO Free Pass",
+                    "types": "Free",
+                    "duration": "Berakhir 26 October 2023 | 23:00 WIB",
+                    "price": "0"
+                }
+            ] 
+        }
+    ]
+}
